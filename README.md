@@ -2,7 +2,7 @@
 
 A 16-bit, top-down life & finance RPG (A Link to the Past vibe) playable in the browser.
 
-**Live:** [https://davidkossin.github.io/cant-take-it/](https://davidkossin.github.io/cant-take-it/)
+**Live:** [https://davidkossin.github.io/cant-take-it/](https://davidkossin.github.io/cant-take-it/) · [https://dkossin.com/cant-take-it/](https://dkossin.com/cant-take-it/)
 
 ## How to play
 
@@ -177,9 +177,9 @@ Each Decision Room and Hallway visit appends a node with a portfolio snapshot (`
 ## Local dev
 
 ```bash
-# from repo root
+# from this repo root
 python3 -m http.server 8080
-# open http://localhost:8080/cant-take-it/
+# open http://localhost:8080/
 ```
 
 ## License / art
