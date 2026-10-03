@@ -10,6 +10,8 @@ Unpublished work stays under **[Unreleased]** until David says to publish.
 
 ## [Unreleased]
 
+- Published the Godot V2 HTML5 rebuild at `/v2/` (Starman standard portfolio, Hallway of Time, six tellers). V1 at the site root is unchanged.
+
 ## [0.5.11] — 2026-10-01
 
 ### Added
